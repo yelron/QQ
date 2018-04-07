@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>View business card</item>
+        <item>delete friend</item>
+        <item>Move to group</item>
+        <item>Add to desktop</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090001">
+        <item>View business card</item>
+        <item>delete friend</item>
+        <item>Add to desktop</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090002">
+        <item>Add to desktop</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090003">
+        <item>Remove from the conversation list</item>
+        <item>Clear the conversation list</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090004">
+        <item>Add to desktop</item>
+        <item>Remove from the conversation list</item>
+        <item>Clear the conversation list</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090005">
+        <item>Clear the conversation list</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090006">
+        <item>Remove from hello list</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090007">
+        <item>Remove the emotion</item>
+        <item>Send an emotion</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090008">
+        <item>Send a screenshot</item>
+        <item>Choose from albums</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090009">
+        <item>Choose from albums</item>
+        <item>Take a photo</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000a">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b1eb8</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b1eb9</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000b">
+        <item>Delete the message</item>
+        <item>Clear all verification messages</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000c">
+        <item>Delete the message</item>
+        <item>Clear all broadcast messages</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000d">
+        <item>Clear all verification messages</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000e">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b202b</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b202c</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b202d</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09000f">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b202b</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b202d</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090010">
+        <item>Add new group</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090011">
+        <item>Receive group message</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090012">
+        <item>Block group message</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090013">
+        <item>Receive all group messages</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090014">
+        <item>Block all group messages</item>
+    </string-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090015">
+        <item>0</item>
+        <item>1</item>
+        <item>20</item>
+        <item>21</item>
+    </integer-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090016">
+        <item>See more information</item>
+        <item>Edit Note</item>
+        <item>Move grouping</item>
+        <item>Remove Friend</item>
+        <item>Report</item>
+        <item>Block this person</item>
+        <item>Unblock</item>
+        <item>Call the contact</item>
+        <item>Send messages</item>
+        <item>Set as note name</item>
+        <item>Copy account</item>
+        <item>Change the picture</item>
+        <item>Zoom in picture</item>
+        <item>Take a photo</item>
+        <item>Choose from albums</item>
+        <item>Set dynamic friends permissions</item>
+        <item>Cancel</item>
+        <item>Set avatar</item>
+        <item></item>
+        <item></item>
+        <item>Choose from phone albums</item>
+        <item>Choose from cloud albums</item>
+        <item>Shoot dynamic picture</item>
+        <item>View larger image</item>
+        <item>Select picture from album</item>
+        <item>Select picture from phone album</item>
+        <item>Choose a photo from the cloud album</item>
+        <item>View the history avatar</item>
+        <item>Phone Album</item>
+        <item>Cloud album</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090017">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b17af</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b17b0</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090018">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b0a6f</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b0a70</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b0a71</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090019">
+        <item>Take a photo</item>
+        <item>Choose from albums</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001a">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001b">
+        <item>Delete account only</item>
+        <item>Delete account and local records</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001c">
+        <item>Let us talk about life, talk about the ideal, first read this "% s"!</item>
+        <item>With my understanding of you, this "% s" is for you, how can you not read?</item>
+        <item>Do you know where you are from? After reading this "% s" will know.</item>
+        <item>I carefully selected only send you this "% s", be sure to read good oh!</item>
+        <item>Instead of wasting time elsewhere, it is better to taste this "% s".</item>
+        <item>Do not let your mind grow hay, use this "% s" to save you.</item>
+        <item>Learn endless, send you "% s" continue to improve it!</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001d">
+        <item>Filter</item>
+        <item>My Profile</item>
+        <item>Clear location information and exit</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001e">
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b29f5</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b29e4</item>
+        <item>@string/name_APKTOOL_DUPLICATENAME_0x7f0b29d6</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09001f">
+        <item>Today</item>
+        <item>within a week</item>
+        <item>A week ago</item>
+        <item>A month ago</item>
+        <item>Three months ago</item>
+        <item>Six months ago</item>
+        <item>a year ago</item>
+        <item>Never spoke</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090020">
+        <item>Limit boys</item>
+        <item>Limit sister</item>
+        <item>Not limited to</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090021">
+        <item>我买单</item>
+        <item>求请客</item>
+        <item>AA</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090022">
+        <item>Not limited to</item>
+        <item>2 people</item>
+        <item>3-5 people</item>
+        <item>6-8 people</item>
+        <item>8 or more</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090023">
+        <item>Not limited to</item>
+        <item>By car</item>
+        <item>aircraft</item>
+        <item>Train / High Speed Rail</item>
+        <item>Car</item>
+        <item>Cruise</item>
+        <item>Riding</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090024">
+        <item>By car</item>
+        <item>aircraft</item>
+        <item>Train / High Speed Rail</item>
+        <item>Car</item>
+        <item>Cruise</item>
+        <item>Riding</item>
+        <item>Other transport</item>
+        <item>Transportation is not limited</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090025">
+        <item>About people eat</item>
+        <item>About people watching movies</item>
+        <item>About people singing</item>
+        <item>About people sports</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090026">
+        <item>Lonely beg rice friends</item>
+        <item>Make friends, eat and chat</item>
+        <item>Small appetite, seeking to feed</item>
+        <item>This restaurant is good, go together</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090027">
+        <item>Watch movies, talk about life</item>
+        <item>Find someone quiet movie</item>
+        <item>Find the best shadow friends</item>
+        <item>New release, go up</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090028">
+        <item>To song friends</item>
+        <item>Mai Pa seekPK</item>
+        <item>Sing to the next dawn</item>
+        <item>Listen to my favorite song</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090029">
+        <item>Little white for guidance</item>
+        <item>Find a companion, mutual supervision</item>
+        <item>Death Star will not exercise</item>
+        <item>Reject homes, sweat</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09002a">
+        <item>Partner to go home, find the same way</item>
+        <item>Traveling on the go</item>
+        <item>Accompany you to see the world scenery</item>
+        <item>Young artists walking, love to take pictures</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09002b">
+        <item>Has been successful about people</item>
+        <item>Time Conflict</item>
+        <item>About less than people</item>
+        <item>Not satisfied with the date of the appointment</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09002c">
+        <item>eat</item>
+        <item>watch movie</item>
+        <item>Singing</item>
+        <item>Travel</item>
+        <item>Exercise</item>
+    </string-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f09002d">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f09002e">
+        <item>1408280101</item>
+        <item>1408280102</item>
+        <item>1408280103</item>
+        <item>1408280104</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f09002f">
+        <item>1408280201</item>
+        <item>1408280202</item>
+        <item>1408280203</item>
+        <item>1408280204</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090030">
+        <item>1408280301</item>
+        <item>1408280302</item>
+        <item>1408280303</item>
+        <item>1408280304</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090031">
+        <item>1408280401</item>
+        <item>1408280402</item>
+        <item>1408280403</item>
+        <item>1408280404</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090032">
+        <item>1412150501</item>
+        <item>1412150502</item>
+        <item>1412150503</item>
+        <item>1412150504</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090033">
+        <item>1111110100</item>
+        <item>1111110200</item>
+        <item>1111110300</item>
+        <item>1111110400</item>
+        <item>1111110500</item>
+    </integer-array>
+    <integer-array name="name_APKTOOL_DUPLICATENAME_0x7f090034">
+        <item>14082801</item>
+        <item>14082802</item>
+        <item>14082803</item>
+        <item>14082804</item>
+        <item>14082805</item>
+    </integer-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090035">
+        <item>Today</item>
+        <item>within a week</item>
+        <item>A week ago</item>
+        <item>A month ago</item>
+        <item>Three months ago</item>
+        <item>Six months ago</item>
+        <item>a year ago</item>
+        <item>Two years ago</item>
+        <item>three years ago</item>
+        <item>five years ago</item>
+        <item>Seven years ago</item>
+        <item>Ten years ago</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090036">
+        <item>Member distribution</item>
+        <item>Invite friends to join</item>
+        <item>Delete member</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090037">
+        <item>Member distribution</item>
+        <item>Gift list</item>
+        <item>Invite new members</item>
+        <item>Delete member</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090038">
+        <item>Sort by default</item>
+        <item>Priority online members</item>
+        <item>By active time</item>
+        <item>Press plus group time</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090039">
+        <item>Sort by default</item>
+        <item>Priority online members</item>
+        <item>Sort by active time</item>
+        <item>Sort by group time</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003a">
+        <item>Sort by default</item>
+        <item>Sort by job title</item>
+        <item>Gift list</item>
+        <item>Start a group chat</item>
+        <item>Invite new members</item>
+        <item>Delete group members</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003b">
+        <item>Diving</item>
+        <item>Bubbling</item>
+        <item>Make complaints</item>
+        <item>Active</item>
+        <item>Chatter</item>
+        <item>Legend</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003c">
+        <item>≤5km</item>
+        <item>≤10km</item>
+        <item>≤50km</item>
+        <item>≤500km</item>
+        <item>≤1000km</item>
+        <item>≤2000km</item>
+        <item>≤10000km</item>
+        <item>Far on the horizon</item>
+        <item>Unknown</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003d">
+        <item>Delete unpaid members</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003e">
+        <item>Authorize to friends</item>
+        <item>Modify device notes</item>
+        <item>Check for device updates</item>
+        <item>Device lock (enabled)</item>
+        <item>Open%s</item>
+        <item>Member face management</item>
+        <item>Unbind</item>
+        <item>share it</item>
+        <item>Report</item>
+        <item>Buy smart devices</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09003f">
+        <item>Selected as an appointment</item>
+        <item>I received the application</item>
+        <item>Received comment</item>
+        <item>Completed appointment</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090040">
+        <item>Where have you been?</item>
+        <item>Favorite food</item>
+        <item>Favorite brands</item>
+        <item>Favorite sports</item>
+        <item>Favorite movies</item>
+        <item>Favorite star</item>
+        <item>Favorite Games</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090041">
+        <item>Travel</item>
+        <item>Food</item>
+        <item>Fashion</item>
+        <item>Exercise</item>
+        <item>Movie</item>
+        <item>Music</item>
+        <item>Game</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090042">
+        <item>Not filled in</item>
+        <item>Teacher</item>
+        <item>Parents</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090043">
+        <item>OK lifted</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090044">
+        <item>Hot movie</item>
+        <item>Nearby food</item>
+        <item>New song recommended</item>
+        <item>Popular comics</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090045">
+        <item>Personal portrait violation</item>
+        <item>Nickname violation</item>
+        <item>Content violation</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090046">
+        <item>Make a call</item>
+        <item>Call toll-free</item>
+        <item>Send messages</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090047">
+        <item>Make a call</item>
+        <item>Call toll-free</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090048">
+        <item>Picture</item>
+        <item>Video</item>
+        <item>File</item>
+        <item>Text</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090049">
+        <item>.png</item>
+        <item>.gif</item>
+        <item>.jpg</item>
+        <item>.jpeg</item>
+        <item>.bmp</item>
+        <item>.ico</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004a">
+        <item>.mp2</item>
+        <item>.mp3</item>
+        <item>.wav</item>
+        <item>.ogg</item>
+        <item>.mid</item>
+        <item>.midi</item>
+        <item>.m3u</item>
+        <item>.m4a</item>
+        <item>.m4b</item>
+        <item>.m4p</item>
+        <item>.mpga</item>
+        <item>.wma</item>
+        <item>.amr</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004b">
+        <item>.wmv</item>
+        <item>.mp4</item>
+        <item>.rmvb</item>
+        <item>.avi</item>
+        <item>.flv</item>
+        <item>.rm</item>
+        <item>.asf</item>
+        <item>.mov</item>
+        <item>.mpg</item>
+        <item>.3gp</item>
+        <item>.m4u</item>
+        <item>.mpeg</item>
+        <item>.m4v</item>
+        <item>.vob</item>
+        <item>.mkv</item>
+        <item>.mpe</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004c">
+        <item>.apk</item>
+        <item>.jar</item>
+        <item>.zip</item>
+        <item>.rar</item>
+        <item>.gz</item>
+        <item>.tar</item>
+        <item>.img</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004d">
+        <item>.htm</item>
+        <item>.html</item>
+        <item>.php</item>
+        <item>.jsp</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004e">
+        <item>.txt</item>
+        <item>.java</item>
+        <item>.c</item>
+        <item>.cpp</item>
+        <item>.py</item>
+        <item>.xml</item>
+        <item>.json</item>
+        <item>.log</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09004f">
+        <item>.doc</item>
+        <item>.docx</item>
+        <item>.dot</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090050">
+        <item>.xls</item>
+        <item>.xlsx</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090051">
+        <item>.ppt</item>
+        <item>.pptx</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090052">
+        <item>.pdf</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090053">
+        <item>.chm</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090054">
+        <item>Delete selected records</item>
+        <item>Delete selected files</item>
+        <item>Forward</item>
+        <item>Save to micro cloud</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090055">
+        <item>China China Mainland 86 11 Common areas</item>
+        <item>Hong Kong China Hong Kong 852 8 Common areas</item>
+        <item>Macau Macao, China 853 8 Common areas</item>
+        <item>Taiwan Taiwan, China 886 10 Common areas</item>
+        <item>Japan Japan 81 11 Common areas</item>
+        <item>USA United States 1 10 Common areas</item>
+        <item>United Kingdom United Kingdom 44 10 Common areas</item>
+        <item>Australia Australia 61 10 Common areas</item>
+        <item>Canada Canada 1 7 Common areas</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090056">
+        <item>Common areas</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090057">
+        <item>Algeria Algeria 213 6 A</item>
+        <item>Afghanistan Afghanistan 93 6 A</item>
+        <item>Argentina Argentina 54 7 A</item>
+        <item>United Arab Emirates United Arab Emirates 971 11 A</item>
+        <item>Aruba Aruba 297 7 A</item>
+        <item>Azerbaija Azerbaija 994 9 A</item>
+        <item>Ascension Ascension 247 4 A</item>
+        <item>Egypt Egypt 20 8 A</item>
+        <item>Ethiopia Ethiopia 251 7 A</item>
+        <item>Ireland Ireland 353 9 A</item>
+        <item>Estonia Estonia 372 7|8 A</item>
+        <item>Andorra Andorra 376 6 A</item>
+        <item>Angola Angola 244 6 A</item>
+        <item>Anguilla Anguilla 1-264 7 A</item>
+        <item>Antigua and Barbuda Antigua and Barbuda 1268 7 A</item>
+        <item>Austria Austria 43 8 A</item>
+        <item>Barbados Barbados 1246 7 B</item>
+        <item>Papua New Guinea Papua New Guinea 675 7 B</item>
+        <item>Bahamas Bahamas 1242 7 B</item>
+        <item>Pakistan Pakistan 92 11 B</item>
+        <item>Bahrain Bahrain 973 8 B</item>
+        <item>Panama Panama 507 7 B</item>
+        <item>Brazil Brazil 55 8 B</item>
+        <item>Belarus Belarus 375 9 B</item>
+        <item>Bermuda Bermuda 1441 7 B</item>
+        <item>Bulgaria Bulgaria 359 7 B</item>
+        <item>Benin Benin 229 8 B</item>
+        <item>Belgium Belgium 32 8 B</item>
+        <item>Iceland Iceland 354 7 B</item>
+        <item>Puerto Rico Puerto Rico 1-787/939 7 B</item>
+        <item>Poland Poland 48 10 B</item>
+        <item>Bolivia Bolivia 591 7 B</item>
+        <item>Belize Belize 501 7 B</item>
+        <item>Botswana Botswana 267 7 B</item>
+        <item>Bhutan Bhutan 975 5 B</item>
+        <item>Burkina Faso Burkina Faso 226 6 B</item>
+        <item>Burundi Burundi 257 8 B</item>
+        <item>Denmark Denmark 45 8 D</item>
+        <item>Germany Germany 49 11 D</item>
+        <item>East Samoa East Samoa 1684 7 D</item>
+        <item>Togo Togo 228 7 D</item>
+        <item>Dominican Republic Dominican Republic 1890 7 D</item>
+        <item>Russia Russia 7 10 E</item>
+        <item>Ecuador Ecuador 593 7 E</item>
+        <item>France France 33 10 F</item>
+        <item>French Polynesia French Polynesia 689 6 F</item>
+        <item>French Guiana French Guiana 594 10 F</item>
+        <item>Philippines Philippines 63 11 F</item>
+        <item>Fiji Fiji 679 7 F</item>
+        <item>Finland 芬兰 358 7 F</item>
+        <item>Gambia Finland 220 7 G</item>
+        <item>Congo Congo 242 7 G</item>
+        <item>Colombia Colombia 57 10 G</item>
+        <item>Costa Rica Costa Rica 506 8 G</item>
+        <item>Grenada Grenada 1473 7 G</item>
+        <item>Georgia Georgia 995 8 G</item>
+        <item>Cuba Cuba 53 7 G</item>
+        <item>Guam Guam 1671 7 G</item>
+        <item>Guyana Guyana 592 12 G</item>
+        <item>Kazakhstan Kazakhstan 7 10 H</item>
+        <item>Haiti Haiti 509 8 H</item>
+        <item>Korea Korea 82 11 H</item>
+        <item>Honduras Honduras 504 7 H</item>
+        <item>Djibouti Djibouti 253 6 J</item>
+        <item>Kyrgyzstan Kyrgyzstan 996 9 J</item>
+        <item>Guinea Guinea 224 6 J</item>
+        <item>Ghana Ghana 233 10 J</item>
+        <item>Gabon Gabon 241 6 J</item>
+        <item>Cambodia Cambodia 855 9 J</item>
+        <item>Czech Czech 420 9 J</item>
+        <item>Zimbabwe Zimbabwe 263 9 J</item>
+        <item>Cameroon Cameroon 237 8 K</item>
+        <item>Qatar Qatar 974 7 K</item>
+        <item>Cayman Islands Cayman Islands 1345 7 K</item>
+        <item>Ivorian Ivorian 225 8 K</item>
+        <item>Kuwait Kuwait 965 8 K</item>
+        <item>Kenya Kenya 254 7 K</item>
+        <item>Cook Islands ook Islands 682 5 K</item>
+        <item>Latvia Latvia 371 8 L</item>
+        <item>Lesotho Lesotho 266 8 L</item>
+        <item>Laos Laos 856 10 L</item>
+        <item>Lebanon Lebanon 961 7 L</item>
+        <item>Lithuania Lithuania 370 5 L</item>
+        <item>Liberia Liberia 231 7|8 L</item>
+        <item>Libya Libya 218 10 L</item>
+        <item>Liechtenstein Liechtenstein 423 7 L</item>
+        <item>Reunion Reunion 262 6 L</item>
+        <item>Luxembourg Luxembourg 352 9 L</item>
+        <item>Romania Romania 40 9 L</item>
+        <item>Madagascar Madagascar 261 7 M</item>
+        <item>Maldives Maldives 960 7 M</item>
+        <item>Malta Malta 356 8 M</item>
+        <item>Malawi Malawi 265 9 M</item>
+        <item>Malaysia Malaysia 60 10 M</item>
+        <item>Mali Mali 223 8 M</item>
+        <item>Mariana Islands Mariana Islands 596 10 M</item>
+        <item>Martinique Martinique 596 10 M</item>
+        <item>Mauritius Mauritius 230 7 M</item>
+        <item>Samoa Samoa 1684 7 M</item>
+        <item>Bangladesh Bangladesh 880 7 M</item>
+        <item>Myanmar Myanmar 95 6 M</item>
+        <item>Moldova Moldova 373 5 M</item>
+        <item>Monaco Monaco 377 8 M</item>
+        <item>Mozambique Mozambique 258 9 M</item>
+        <item>Mexico Mexico 52 8 M</item>
+        <item>South Africa South Africa 27 9 N</item>
+        <item>Nauru Nauru 674 7 N</item>
+        <item>Niger Niger 227 6 N</item>
+        <item>Nigeria Nigeria 234 11 N</item>
+        <item>Norway Norway 47 8 N</item>
+        <item>Portugal Portugal 351 9 P</item>
+        <item>Sweden Sweden 46 6 R</item>
+        <item>Switzerland Switzerland 41 10 R</item>
+        <item>Salvador Salvador 503 7 S</item>
+        <item>Sierra Leone Sierra Leone 232 6 S</item>
+        <item>Senegal Senegal 221 7 S</item>
+        <item>Cyprus Cyprus 357 6 S</item>
+        <item>Seychelles Seychelles 248 6 S</item>
+        <item>Saudi Arabia Saudi Arabia 966 9 S</item>
+        <item>Sao Tome and Principe Sao Tome and Principe 239 6 S</item>
+        <item>Lucia Lucia 1758 7 S</item>
+        <item>San Marino San Marino 378 10 S</item>
+        <item>St.Vincent St.Vincent 1784 7 S</item>
+        <item>Sri Lanka Sri Lanka 94 7|8 S</item>
+        <item>Slovakia Slovakia 421 7 S</item>
+        <item>Slovenia Slovenia 386 7 S</item>
+        <item>Swaziland Swaziland 268 7 S</item>
+        <item>Sudan Sudan 249 9 S</item>
+        <item>Suriname Suriname 597 6 S</item>
+        <item>Solomon Islands Solomon Islands 677 7 S</item>
+        <item>Somalia Somalia 252 7 S</item>
+        <item>Tajikistan Tajikistan 992 6 T</item>
+        <item>Thailand Thailand 66 10 T</item>
+        <item>Tanzania Tanzania 255 11 T</item>
+        <item>Tonga Tonga 676 7 T</item>
+        <item>Trinidad and Tobago Trinidad and Tobago 1868 7 T</item>
+        <item>Tunisia Tunisia 216 8 T</item>
+        <item>Turkey Turkey 90 10 T</item>
+        <item>Turkmenistan Turkmenistan 993 6 T</item>
+        <item>Guatemala Guatemala 502 8 W</item>
+        <item>Venezuela Venezuela 58 7 W</item>
+        <item>Brunei Brunei 673 7 W</item>
+        <item>Uganda Uganda 256 9 W</item>
+        <item>Ukraine Ukraine 380 10 W</item>
+        <item>Uruguay Uruguay 598 7 W</item>
+        <item>Uzbekistan Uzbekistan 998 7 W</item>
+        <item>Spain Spain 34 9 X</item>
+        <item>Western Samoa Western Samoa 685 7 X</item>
+        <item>Greece Greece 30 10 X</item>
+        <item>Singapor Singapor 65 8 X</item>
+        <item>Hungary Hungary 36 9 X</item>
+        <item>Syria Syria 963 9 X</item>
+        <item>Jamaica Jamaica 1876 7 Y</item>
+        <item>Armenia Armenia 374 8 Y</item>
+        <item>Yemen Yemen 967 6 Y</item>
+        <item>Iraq Iraq 964 8 Y</item>
+        <item>Iran Iran 98 8 Y</item>
+        <item>Israel Israel 972 9 Y</item>
+        <item>Italy Italy 39 10 Y</item>
+        <item>India India 91 10 Y</item>
+        <item>Indonesia Indonesia 62 10|11|12 Y</item>
+        <item>Jordan Jordan 962 7 Y</item>
+        <item>Vietnam Vietnam 84 10 Y</item>
+        <item>Zambia Zambia 260 9 Z</item>
+        <item>Zaire Zaire 243 7 Z</item>
+        <item>Chad Chad 235 7 Z</item>
+        <item>Gibraltar Gibraltar 350 8 Z</item>
+        <item>Chile Chile 56 7 Z</item>
+        <item>Central African Republic Central African Republic 236 6 Z</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090058">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <array name="name_APKTOOL_DUPLICATENAME_0x7f090059">
+        <item>@drawable/name_APKTOOL_DUPLICATENAME_0x7f0208ed</item>
+        <item>@drawable/name_APKTOOL_DUPLICATENAME_0x7f0208ee</item>
+    </array>
+    <array name="name_APKTOOL_DUPLICATENAME_0x7f09005a">
+        <item>@drawable/name_APKTOOL_DUPLICATENAME_0x7f0208ec</item>
+    </array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09005b">
+        <item>Remove from this device</item>
+        <item>Remove from group file</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09005c">
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>304</item>
+        <item>305</item>
+        <item>306</item>
+        <item>401</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09005d">
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>504</item>
+        <item>505</item>
+        <item>506</item>
+        <item>507</item>
+        <item>508</item>
+        <item>509</item>
+        <item>qrcodecolor</item>
+        <item>601</item>
+        <item>401</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09005e">
+        <item>" · "</item>
+        <item>"  "</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f09005f">
+        <item>Click over ten million times a month for God: Curse of Lop Nur</item>
+        <item>Tiny Times trilogy Concluded: thorn gold era</item>
+        <item>Poachers strange experience: Ghost Tibetans</item>
+        <item>More attractive than the alien beautiful beasts called beasts</item>
+        <item>Exclusive recommendation: Home version of the harem "Zhen Huan Biography"</item>
+        <item>Healing Department: Warm writing Ye non-night book struck</item>
+        <item>Undercover policewoman mysteriously lost contact</item>
+        <item>Ghost curse! Dead school ranking</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090060">
+        <item>Author: Zhou Dedong</item>
+        <item>作者：郭敬明</item>
+        <item>作者：李达</item>
+        <item>寻找属于你的“都敏俊”</item>
+        <item>不要小看女人</item>
+        <item>男神不要太多哦</item>
+        <item>女警神秘失联</item>
+        <item>死亡宿舍推荐</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090061">
+        <item>中国恐怖小说第一人周德东百万字巨著火热连载中，腾讯独家首发，本书集青春、爱情、悬疑、探险、魔幻于一体，共1001次高潮。邀您一起踏上惊心动魄的“罗布泊之旅”！</item>
+        <item>林萧、顾里、南湘、唐宛如四位主角的故事，画上出乎意料同时又无可辩驳的句号。郭敬明导演同名电影《小时代》最后一部2014年7月上映。前两季交错铺设下的伏笔，将在本季密集引爆。</item>
+        <item>30年前，一支由“死人”组建的勘探队进入杀龙岭，中国隐藏了数千年的终极秘密首次拉开大幕：莽莽丛林背后，究竟隐藏了什么秘密？“一切动物都指向那个终极——天黑莫上山，夜半鬼藏人……</item>
+        <item>此男主，前无古人后无来者，时有怪癖，却极富魅力，追其原因：多金、帅气、人间难遇！要如何把土豪变成自己的？攻略在此，不看后悔哦~</item>
+        <item>伯父冷漠，未婚夫背叛，视若亲母的伯母二十万两银子将她卖为商人妾，彻底断送了她的一生。重生归来，她决心报仇，那些践踏她的人，她必以牙还牙，加倍奉还！</item>
+        <item>“男神大人，小女子有罪，对您有跟踪罪，窥视罪，梦中情人罪……”林深深对着面前冷若冰霜的美男子——锦洋嘴里谢罪，脑内YY，心里大恨：老娘阅男无数，居然栽了！</item>
+        <item>王牌卧底执行公务时突然失联，神秘失踪。她到底遭遇何事，现又身在何处？</item>
+        <item>为寻找失踪的姐姐，她考入姐姐之前的同一所大学。入校当天天，一连串离奇事件就在宿舍接连上演，姐姐的失踪是否与这些有关？事件背后的真相到底是……</item>
+    </string-array>
+    <string-array name="name_APKTOOL_DUPLICATENAME_0x7f090062">
+        <item>Popular books</item>
+        <item>Popular books</item>
+        <item>Popular books</item>
+        <item>Popular books</item>
+        <item>Popular books</item>
+        <item>God recommended</item>
+        <item>Popular books</item>
+        <item>Popular books</item>
+    </string-array>
+</resources>
